@@ -5,7 +5,7 @@
   <!ENTITY ncwms SYSTEM "ncwms-web.xml">
   <!ENTITY app SYSTEM "app-web.xml">
 ]>
-
+This is for SELENIUM AUTOMATION PROJECT
 <!-- This web.xml file just delegates to the main ncWMS web.xml and an additional 
 	app-web.xml. If no additional web.xml configuration is required for your 
 	project, you can safely delete this file and app-web.xml. If you do want 
